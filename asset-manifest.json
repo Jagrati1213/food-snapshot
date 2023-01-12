@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-snapshot/static/css/main.c6e1a9b3.css",
+    "main.js": "/food-snapshot/static/js/main.b46406a5.js",
+    "index.html": "/food-snapshot/index.html",
+    "main.c6e1a9b3.css.map": "/food-snapshot/static/css/main.c6e1a9b3.css.map",
+    "main.b46406a5.js.map": "/food-snapshot/static/js/main.b46406a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e1a9b3.css",
+    "static/js/main.b46406a5.js"
+  ]
+}
