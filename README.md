@@ -1,6 +1,6 @@
 # food-snapshot
 It's a layout of Food Menu card. 
-![link](https://jagrati1213.github.io/food-snapshot/)
+[link](https://jagrati1213.github.io/food-snapshot/)
 ## Used language 
 - HTML
 - JS
